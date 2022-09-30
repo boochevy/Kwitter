@@ -6,12 +6,12 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+background-image: linear-gradient(to right bottom, #d8e174, #eed6a0, #f78a8a, #f4e593, #f99797);
 }
 
 .header
 {
-	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: rgb(252, 142, 184);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
 }
 .header img
 {
@@ -20,7 +20,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 .login_div
 {
-	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	background: rgba(225, 255, 0, 0.8);float: none;border-radius: 15px;
 }
 
 .logo
